@@ -1,1 +1,1 @@
-# datcover
+# spotify-cover-downloader

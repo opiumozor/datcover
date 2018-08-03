@@ -102,3 +102,19 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# instabot
+blacklist.txt
+comments.txt
+cookie.txt
+dat.cover.checkpoint
+followed.txt
+friends.txt
+instabot.log
+skipped.txt
+unfollowed.txt
+whitelist.txt
+
+# covers
+covers/*.jpeg
+.DS_Store
